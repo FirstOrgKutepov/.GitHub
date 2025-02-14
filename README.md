@@ -22,6 +22,7 @@ This is a <sup>superscript</sup> text
 - [x]  Misha Super #123
 - [ ]  https://github.com/FirstOrgKutepov/.GitHub #124
 - [ ] Yaht Егор 🎉
-`rgb (9, 105, 218)`
+      
+`rgb(9, 105, 218)`
 
 :+1: This PR looks great - it's ready to merge! :shipit:
